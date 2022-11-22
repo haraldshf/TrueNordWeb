@@ -118,7 +118,7 @@ nav .fa{
 
 
 /*----- Order ------*/
-.Order{
+#Order{
     width: 80%;
     text-align: center;
     margin: auto;
@@ -171,7 +171,7 @@ h3{
 
 /*----AboutUs-----*/
 
-.AboutUs{
+#AboutUs{
     width: 80%;
     margin: auto;
     text-align: center;
@@ -238,7 +238,7 @@ h3{
 
 /*-----contacts-----*/
 
-.contacts{
+#Contacts{
     text-align: center;
     padding-top: 50px;
     margin: auto;
